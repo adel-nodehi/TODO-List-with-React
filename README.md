@@ -1,6 +1,6 @@
 # TODO App
 
-This is a todo list with react project.
+This is a todo list project with react.
 
 ## How it's run
 
